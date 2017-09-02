@@ -12,9 +12,7 @@ Actually, who is `Lomachenko`. He is a Ukrainian professional boxer. He has held
 
 Lomachenko is known for his excellent hand speed, timing, accuracy, creativity, and foot movement, people call him `The Matrix`. Like `Neo` dodging the bullets.
 
-He's training his brain to process and precisely react with his hands as fast as possible.
-
-That's the purpose of this module, to train the brain to process as fast as possible by looking for numbers.
+He's training his brain to process and precisely react with his hands as fast as possible. That's the purpose of this module, to train the brain to process as fast as possible by looking for numbers.
 
 ## How it works?
 
