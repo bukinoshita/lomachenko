@@ -45,6 +45,7 @@ When you run `lomachenko` on your terminal a `shuffled` table 5x5 will be shown 
 
 <img src="demo.png" alt="" width="600">
 
+
 ## License
 
-MIT © Bu Kinoshita
+MIT © [Bu Kinoshita](https://bukinoshita.io)
