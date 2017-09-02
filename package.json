@@ -1,0 +1,38 @@
+{
+  "name": "lomachenko",
+  "version": "0.0.0",
+  "description": "The glight in The Matrix",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/lomachenko.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "brain",
+    "processing",
+    "IQ",
+    "lomachenko",
+    "boxing",
+    "boxe",
+    "fast",
+    "deduction"
+  ],
+  "scripts": {
+    "test": "xo --quiet"
+  },
+  "bin": {
+    "lomachenko": "index.js"
+  },
+  "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "cli-table2": "^0.2.0",
+    "meow": "^3.7.0",
+    "update-notifier": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
