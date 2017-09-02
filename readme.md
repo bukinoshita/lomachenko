@@ -1,4 +1,4 @@
-# lomachenko
+# lomachenko [![Build Status](https://travis-ci.org/bukinoshita/lomachenko.svg?branch=master)](https://travis-ci.org/bukinoshita/lomachenko)
 
 > The glitch in The Matrix
 
