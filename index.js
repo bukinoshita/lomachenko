@@ -4,7 +4,7 @@
 const arrayShuffle = require('array-shuffle')
 const meow = require('meow')
 const updateNotifier = require('update-notifier')
-const Table = require('cli-table2')
+const Table = require('cli-table3')
 
 const cli = meow(
   `
