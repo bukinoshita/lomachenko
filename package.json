@@ -1,6 +1,6 @@
 {
   "name": "lomachenko",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The glight in The Matrix",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/lomachenko.git",
