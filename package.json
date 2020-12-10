@@ -23,7 +23,7 @@
     "lomachenko": "index.js"
   },
   "dependencies": {
-    "array-shuffle": "^1.0.1",
+    "array-shuffle": "^2.0.0",
     "cli-table3": "^0.5.0",
     "meow": "^6.0.0",
     "update-notifier": "^4.0.0"
